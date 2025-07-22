@@ -64,7 +64,7 @@
           "type": "heading",
           "settings": {
             "heading": "Experience Pure Luxury with Our Exclusive Fragrances.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text": {
@@ -92,7 +92,7 @@
       "settings": {
         "collection": "all",
         "products_to_show": 8,
-        "title": "<strong>Funky Finds</strong>",
+        "title": "Special Discoveries",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
