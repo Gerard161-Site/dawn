@@ -121,7 +121,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "mens-bold-essentials"
+            "collection": "womens-timeless-elegance"
           }
         },
         "product": {
@@ -134,7 +134,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "womens-timeless-elegance"
+            "collection": "mens-bold-essentials"
           }
         }
       },
