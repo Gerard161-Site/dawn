@@ -56,30 +56,12 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "",
-            "page": ""
-          }
-        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
+            "content": "<p>At I Love Fragrance, we want you to be completely satisfied with your purchase. If for any reason you're not happy with your fragrance, you can return it within 30 days of purchase</p>",
             "page": ""
           }
         },
@@ -108,9 +90,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
         "collapsible-row-3",
         "share"
       ],
